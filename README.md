@@ -2,4 +2,4 @@
 
 ### Technologies Used: HTML & CSS.
 
-### Find me o
+### Find me on
